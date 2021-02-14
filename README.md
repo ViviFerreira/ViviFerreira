@@ -2,11 +2,10 @@
 ***
 - 🦹🏻‍♀️ Olá, eu sou a Viviane Ferreira 
 - 👩🏻‍🎓 Sou Técnica em Informática
-- 👩🏻‍💻 Gerente de Suporte Técnico
 - 📚 Bacharelanda em Sistemas de Informação
 #### ⚡ Mas vamos ao que interessa...
 ***
-No momento atual estudando JavaScipt e com conhecimentos em outras linguagem como PHP, Python, Java, além de Html/CSS, MySql e o framework Bootstrap 
+Conhecimentos básico em JavaScript, PHP, Python, Java, HTML e CSS, MySql and Bootstrap 
 #### 💬 Outras infomações...
 ##### :email: [E-mail para contato](vferreiradeoliveira595@gmail.com)
 ##### :link: [Perfil do Facebook](https://www.facebook.com/profile.php?id=100007557184211)
