@@ -1,6 +1,6 @@
 #### :blush: Conheça um pouco sobre mim...
 - 🦹🏻‍♀️ Olá, eu sou a Viviane Ferreira 
-- 👩🏻‍🎓 Sou Técnica em Informática
+- 👩🏻‍🎓 Técnica em Informática
 - 📚 Cursando Sistemas de Informação
 #### :rocket: Mas vamos ao que interessa...
 Conhecimentos básicos em JavaScript, PHP, Python, Java, HTML e CSS, MySql and Bootstrap 
