@@ -10,5 +10,5 @@
 - HTML, CSS, Bootstrap
 - Sql  
 #### 💬 Contatos...
-##### :email: [E-mail para contato](vferreiradeoliveira595@gmail.com)
-##### :link: [Perfil do Facebook](https://www.facebook.com/profile.php?id=100007557184211)
+##### :email: [E-mail](vivianeferreiraoliveira18@gmail.com)
+##### :link: [Facebook](https://www.facebook.com/profile.php?id=100007557184211)
