@@ -8,7 +8,7 @@
 - Python
 - Java
 - HTML, CSS, Bootstrap
-- MySql  
+- Sql  
 #### 💬 Contatos...
 ##### :email: [E-mail para contato](vferreiradeoliveira595@gmail.com)
 ##### :link: [Perfil do Facebook](https://www.facebook.com/profile.php?id=100007557184211)
