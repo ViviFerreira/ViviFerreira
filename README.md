@@ -3,12 +3,9 @@
 - 👩🏻‍🎓 Sou Técnica em Informática
 - 📚 Atualmente cursando Sistemas de Informação
 #### :rocket: Tecnologias...
-- JavaScript
+- HTML, CSS, JavaScript
+- React 
 - PHP
-- Python
-- Java
-- HTML, CSS, Bootstrap
-- Sql  
 #### 💬 Contatos...
 ##### :email: [E-mail](vivianeferreiraoliveira18@gmail.com)
 ##### :link: [Facebook](https://www.facebook.com/profile.php?id=100007557184211)
