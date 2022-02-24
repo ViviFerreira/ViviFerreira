@@ -1,11 +1,11 @@
-#### :blush: Sobre mim...
+#### :blush: Sobre mim
 - 🦹🏻‍♀️ Olá, meu nome é Viviane
 - 👩🏻‍🎓 Sou Técnica em Informática
 - 📚 Atualmente cursando Sistemas de Informação
-#### :rocket: Tecnologias...
+#### :rocket: Tecnologias
 - HTML, CSS, JavaScript
 - React 
 - PHP
-#### 💬 Contatos...
+#### 💬 Contatos
 ##### :email: [E-mail](vivianeferreiraoliveira18@gmail.com)
 ##### :link: [Facebook](https://www.facebook.com/profile.php?id=100007557184211)
