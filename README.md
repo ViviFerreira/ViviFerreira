@@ -10,4 +10,4 @@
 - SQL
 #### 💬 Contatos
 ##### :email: [E-mail](vivianeferreiraoliveira18@gmail.com)
-##### :link: [Linkedin]([https://www.facebook.com/profile.php?id=100007557184211](https://www.linkedin.com/in/viviane-ferreira-de-oliveira/))
+##### :link: [Linkedin](https://www.linkedin.com/in/viviane-ferreira-de-oliveira/)
